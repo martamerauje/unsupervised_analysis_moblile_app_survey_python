@@ -1,1 +1,1 @@
-# unsupervised_analysis_moblile_app_survey_python
+The team's goal in this assignment is to analyze and interpret an unsupervised learning problem based on survey data. We segement our data into meaningful groups and prvide insights for the marketing department to understand their target audience and use it for advertising puposes.
